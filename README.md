@@ -51,6 +51,6 @@
 
 <img src="https://raw.githubusercontent.com/hadiramr/hadiramr/output/pacman-contribution-graph.svg#gh-light-mode-only" />
 
-<img src="https://raw.githubusercontent.com/hadiramr/hadiramr/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" />>
+<img src="https://raw.githubusercontent.com/hadiramr/hadiramr/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" />
 
 ###
